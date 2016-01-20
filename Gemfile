@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rails', path: "../rails"
+gem 'rails', path: "../../rails"
 
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
